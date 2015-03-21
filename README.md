@@ -6,5 +6,5 @@ PWA is an application initially built for Turian Linux. This applications target
 
 Installation
 Run 'qmake'
-Rum 'make'
+Run 'make'
 Copy executables in desired locations.
